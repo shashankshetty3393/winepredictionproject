@@ -55,7 +55,7 @@
             <configuration>
               <archive>
                 <manifest>
-                  <mainClass>com.project.AWSWinePrediction.CloudProject</mainClass>
+                  <mainClass>com.project.AWSWinePreedction.CloudProject</mainClass>
                 </manifest>
               </archive>
               <finalName>CloudProject</finalName>
