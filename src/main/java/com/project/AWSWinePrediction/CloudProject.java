@@ -1,4 +1,4 @@
-package com.project.AWSWinePrediction;
+package com.project.AWSWinePreedction;
 
 import org.apache.spark.sql.functions;
 import org.apache.spark.api.java.JavaSparkContext;
