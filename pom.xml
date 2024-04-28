@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.project</groupId>
-  <artifactId>prediction</artifactId>
+  <artifactId>AWSWinePrediction</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>prediction</name>
+  <name>AWSWinePrediction</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -55,10 +55,10 @@
             <configuration>
               <archive>
                 <manifest>
-                  <mainClass>com.project.prediction.Sparkproject</mainClass>
+                  <mainClass>com.project.AWSWinePrediction.CloudProject</mainClass>
                 </manifest>
               </archive>
-              <finalName>Sparkproject</finalName>
+              <finalName>CloudProject</finalName>
               <appendAssemblyId>false</appendAssemblyId>
             </configuration>
           </execution>
